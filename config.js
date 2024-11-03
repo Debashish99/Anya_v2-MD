@@ -10,15 +10,15 @@ module.exports = {
      */
     botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
     footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
-    prefa: process.env.Prefix || "-",
+    prefa: process.env.Prefix || "!",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "𝓡𝓲𝓸(リオ)🍃🌸",
+    ownernumber: process.env.Owner_Number || "917636987434",
+    instagramId: process.env.Insta || "unknown_____11__d",
 
     /**
      * other details and parameters
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://dpatar718:<deba1432>@rioyang25.6ehfa.mongodb.net/?retryWrites=true&w=majority&appName=Rioyang25",
+    sessionId: process.env.SESSION_ID || "pDe0rNnc0Z6A_A_N_Y_A_V_2_wKu02U1X",
 
     /**
      * thumbnails and medias
