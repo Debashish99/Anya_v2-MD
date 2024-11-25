@@ -15,27 +15,27 @@ services:
     #startCommand: npm start
     envVars:
       - key: BotName
-        value: ""
+        value: "Queen Anya V2"
       - key: Footer
         value: "© Queen Anya Bot"
       - key: Prefix
-        value: "-"
+        value: "!"
       - key: ThemeEmoji
         value: "🎐"
       - key: Owner_Name
-        value: "Pika~Kun"
+        value: "𝓚𝓲𝔂𝓸𝓽𝓪𝓴𝓪 𝓐𝔂𝓪𝓷𝓸𝓴𝓸𝓳𝓲"
       - key: Owner_Number
-        value: "91881107xxxx"
+        value: "918134015876"
       - key: Insta
-        value: "3.69_pika"
+        value: "unknown_____11__d"
       - key: Author
-        value: "PikaBotz"
+        value: "𝓡𝓲𝓸(リオ)™"
       - key: PackName
-        value: "Queen Anya • Stickers"
+        value: "Queen Anya • 𝓡𝓲𝓸(リオ)™"
       - key: Web
-        value: "https://github.com/PikaBotz"
+        value: ""
       - key: GcLink
-        value: "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX"
+        value: "https://chat.whatsapp.com/Ize4PoJceRP99dctnU1W3c"
       - key: Warn_Limits
         value: "3"
       - key: Cooldown_Timer_Seconds
@@ -43,6 +43,6 @@ services:
       - key: Port
         value: "8080"
       - key: MongoDB
-        value: "YOUR_MONGODB_URL"
+        value: "mongodb+srv://dpatar718:<deba1432>@rioyang25.6ehfa.mongodb.net/?retryWrites=true&w=majority&appName=Rioyang25"
       - key: SESSION_ID
-        value: "YOUR_SESSION_ID"
+        value: "Kfm_A_N_Y_A_V_2_GzeW1JDalmDrS6KnA"
